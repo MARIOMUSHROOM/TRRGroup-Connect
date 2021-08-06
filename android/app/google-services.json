@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "317438559415",
+    "project_id": "trr-application-3a765",
+    "storage_bucket": "trr-application-3a765.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317438559415:android:c4cca48b8ec0bcaceb3932",
+        "android_client_info": {
+          "package_name": "com.trr.ai_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "317438559415-ec04eqmuoi1q1ael595eheajp685d827.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT6gnLqKAWiR-zyaLfgijRfUdyXl2td5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "317438559415-ec04eqmuoi1q1ael595eheajp685d827.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

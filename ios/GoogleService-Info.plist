@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>317438559415-fnr6gn0sb4fq4gua77utk647sf42qb1j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.317438559415-fnr6gn0sb4fq4gua77utk647sf42qb1j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDjNb8TimMB_WW-xA7HRz1rOLLHhjED5lU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>317438559415</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.trr.aiFlutter</string>
+	<key>PROJECT_ID</key>
+	<string>trr-application-3a765</string>
+	<key>STORAGE_BUCKET</key>
+	<string>trr-application-3a765.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:317438559415:ios:f9987b2f5ca561cdeb3932</string>
+	<key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsLocalNetworking</key>
+      <true/>
+    </dict>
+</dict>
+</plist>
